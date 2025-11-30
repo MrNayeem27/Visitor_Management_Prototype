@@ -1,0 +1,5 @@
+{
+  "name": "Visitor Management System",
+  "description": "A comprehensive visitor management system application that allows visitors to check in, and administrators to manage visitors, users, companies, and settings.",
+  "requestFramePermissions": []
+}
